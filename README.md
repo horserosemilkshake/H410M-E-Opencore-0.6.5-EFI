@@ -1,4 +1,4 @@
-# H410M-E-Opencore-0.6.5--EFI
+# H410M-E-Opencore-0.6.5-EFI
 
 EFI fetched from: https://manjaro.site/asus-prime-h410m-e-hackintosh-opencore-0-6-5/ <br>
 Made adjustments to fix internet connection and laggy keyboard + mouse <br> <br>
