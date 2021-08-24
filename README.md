@@ -11,3 +11,6 @@ CPU: i5-10400 <br>
 Motherboard: ASUS H410M-E <br>
 RAM: ADATA 32GB DDR4 2666MHz <br>
 GPU: Intel UHD Graphics 630 1536 MB
+
+# Edit on 25 Aug 2021
+This repository will no longer be maintained since I got a RTX GPU (It won't work with Mac OS) and decided to switch back to Windows/Linux. 
